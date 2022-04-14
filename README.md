@@ -1,5 +1,5 @@
 <h3 align="center">Programador orientado a la ciberseguridad.</h3>
-<h4 align="center"> este es un github dedicado a apuntes recopilacion y exploracion, sientase libre de hurgar | HTB Player</h4>
+<h4 align="center"> este es un github dedicado a apuntes recopilacion y exploracion asi que no se moleste por el desorden, sientase libre de hurgar | HTB Player</h4>
 
 
 <p align="left">
