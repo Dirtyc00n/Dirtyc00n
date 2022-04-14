@@ -1,5 +1,5 @@
 <h3 align="center">Programador orientado a la ciberseguridad.</h3>
-<h4 align="center"> Este es un github dedicado a apuntes recopilacion y exploracion asi que no se moleste por el desorden, sientase libre de hurgar | HTB Player</h4>
+<h4 align="center"> Este es un github dedicado a apuntes, recopilacion y exploracion asi que no se moleste por el desorden, sientase libre de hurgar | HTB Player</h4>
 
 <p align="center">  <img src="https://github.com/Dirtyc00n/Dirtyc00n/blob/main/perfil.png" </p> 
 
